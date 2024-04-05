@@ -1,7 +1,6 @@
-<img align="right" src="https://github.com/alanSxSx/alanSxSx/assets/103279092/88b6e822-10e3-411e-aca4-ce9134cda10f" width="250" height="400">
+<img align="right" src="https://github.com/alanSxSx/alanSxSx/assets/103279092/4ae2ddf4-4fbe-4a40-ab4f-a45ee2b76477">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=1600FF&random=false&width=480&lines=Ol%C3%A1%2C+Seja+muito+bem+vindo!)](https://git.io/typing-svg)
-
 
 
 <p align="left">
