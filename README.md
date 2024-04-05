@@ -1,8 +1,13 @@
+<img align="right" src="https://github.com/alanSxSx/alanSxSx/assets/103279092/88b6e822-10e3-411e-aca4-ce9134cda10f" width="250" height="400">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=1600FF&random=false&width=480&lines=Ol%C3%A1%2C+Seja+muito+bem+vindo!)](https://git.io/typing-svg)
+
+
 
 <p align="left">
 Com experiência de mais de 9 anos no mercado de tecnologia atuando como suporte, analista de sistemas, analista de dados e desenvolvedor de software, em empresas de médio porte, busco uma oportunidade de crescimento profissional na área de desenvolvimento web. Possuo conhecimentos em REACTJS, NEXTJS, TYPESCRIPT, CLOUD COMPUTING além de outras ferramentas e linguagens. Sou responsável, trabalho muito bem em equipe, facilidade em lidar com adversidades e comprometido com os prazos e a qualidade dos projetos.
 </p>
+
 
 <h3 align="left">Redes Sociais</h3>
 
@@ -48,4 +53,5 @@ Com experiência de mais de 9 anos no mercado de tecnologia atuando como suporte
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alanSxSx/alanSxSx/output/github-contribution-grid-snake.svg">
 </picture>
 <br><br>
+
 
