@@ -4,7 +4,7 @@
 
 
 <p align="left">
-Com experiência de mais de 9 anos no mercado de tecnologia atuando como suporte, analista de sistemas, analista de dados e desenvolvedor de software, em empresas de médio porte, busco uma oportunidade de crescimento profissional na área de desenvolvimento web. Possuo conhecimentos em REACTJS, NEXTJS, TYPESCRIPT, CLOUD COMPUTING além de outras ferramentas e linguagens. Sou responsável, trabalho muito bem em equipe, facilidade em lidar com adversidades e comprometido com os prazos e a qualidade dos projetos.
+Com experiência de mais de 9 anos no mercado de tecnologia, atuando como suporte, analista de sistemas, analista de dados e desenvolvedor de software, em empresas de médio porte, atualmente foco minha carreira na área de Qualidade de Software (QA). Possuo conhecimentos em Jest, TypeScript, Supertest, Cypress e K6, além de outras ferramentas e metodologias voltadas para automação de testes e garantia da qualidade. Tenho experiência com testes automatizados para frontend e backend, testes de performance e integração contínua. Sou responsável, trabalho muito bem em equipe, tenho facilidade em lidar com adversidades e sou comprometido com os prazos e a qualidade dos projetos.
 </p>
 
 
