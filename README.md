@@ -40,11 +40,6 @@ Com experiência de mais de 9 anos no mercado de tecnologia, atuando como suport
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo"  />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alanSxSx/alanSxSx/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alanSxSx/alanSxSx/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alanSxSx/alanSxSx/output/github-contribution-grid-snake.svg">
-</picture>
 <br><br>
 
 
